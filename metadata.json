@@ -1,0 +1,6 @@
+{
+  "name": "Balanced Books",
+  "description": "Modern outsourced bookkeeping and financial operations partner for startup founders, small businesses, and growing companies. Founded in 2017 in Laredo, serving clients nationwide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

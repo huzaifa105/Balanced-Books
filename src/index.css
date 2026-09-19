@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Manrope', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  }
+}
+
+:root {
+  --primary-teal: #05596A;
+  --dark-teal: #123F49;
+  --fresh-green: #36A333;
+  --muted-green: #5DAD59;
+  --neutral-gray: #7F8485;
+  --dark-text: #182A30;
+  --secondary-text: #56656A;
+  --soft-bg: #F5F8F7;
+  --card-border: #E2E8E6;
+}
